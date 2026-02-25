@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im Stuyding computer science at University at buffalo<br>im interested to learn more about AI/ML.<br>I like to play tennis and video game.<br>Trying to learn digital art 
+I'm studying computer science at the University at buffalo<br>I'm interested to learn more about AI/ML.<br>I like to play tennis and video games.<br> Making habits of reading books.
 
 
 ## 🌐 Socials:
