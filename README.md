@@ -69,14 +69,9 @@ Currently building habits like reading 📚
 ---
 
 ##  GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=ehsanul01&theme=cobalt&show_icons=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ehsanul01&show_icons=true&theme=tokyonight" />
 <br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=ehsanul01&theme=cobalt"/>
+<img src="https://streak-stats.demolab.com?user=ehsanul01&theme=tokyonight" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanul01&theme=cobalt&layout=compact"/>
-
----
-
-<img src="https://visitcount.itsvg.in/api?id=ehsanul01&icon=0&color=0"/>
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanul01&layout=compact&theme=tokyonight" />
