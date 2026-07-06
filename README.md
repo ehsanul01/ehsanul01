@@ -2,7 +2,7 @@
 
 #  About Me:
 I'm studying computer science at the University at Buffalo  
-I'm interested in AI/ML and building real-world projects  
+I'm interested in  soft/AI/ML and building real-world projects  
 I enjoy playing tennis  and video games  
 Currently building habits like reading  
 
